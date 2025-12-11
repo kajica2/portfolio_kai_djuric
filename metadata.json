@@ -1,0 +1,5 @@
+{
+  "name": "Portfol.io AI",
+  "description": "A smart portfolio builder that auto-generates project entries from URLs using Gemini AI.",
+  "requestFramePermissions": []
+}
